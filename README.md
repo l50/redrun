@@ -14,14 +14,6 @@ RedRun is a first-person multiplayer game in which a group of victims attempt to
 
 #How do I get set up?
 
-##For group members:
-
-```
-#!bash
-git clone https://bitbucket.org/ggallinislove/redrun/
-
-```
-
 ##For instructors/graders:
 
 1. Create a new project in Eclipse
